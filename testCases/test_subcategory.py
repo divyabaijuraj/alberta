@@ -1,8 +1,6 @@
-import time
-from pageObjects.Employee import Employee
-from pageObjects.EmployeeAddUserddtfinal import EmployeeAddUserddtfinal
 
-from pageObjects.LoginPage import LoginPage
+import time
+from pageObjects.SubCategory import SubCategory
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 from pageObjects.LoginPage import LoginPage
@@ -26,13 +24,19 @@ class Test_003_AddEmployee(softest.TestCase):
         self.driver.get(self.baseURL)
         self.driver.maximize_window()
         self.lg = LoginPage(self.driver)
-        self.emp_add = EmployeeAddUserddtfinal(self.driver)
+        self.sub_cat = SubCategory(self.driver)
         self.ut=Utilities()
 
 
-    @data(*Utilities.read_data_from_excel("C:\\Users\\Dell\\PycharmProjects\\pythonProject\\alberta\\TestData\\addUserscopy.xlsx","Sheet1"))
+    @data(*Utilities.read_data_from_excel("C:\\Users\\Dell\\PycharmProjects\\pythonProject\\alberta\\TestData\\SUBCAT.xlsx", "Sheet1"))
     @unpack
-    def test_add_employee(self,Firstname, Lastname, Phone, Address1, Address2, City, State,Zipcode,Usertype,Status,Posid,Password,Cpassword,result):
+    def test_subcatadd(self,Name,Category):
 
             self.lg.login_page_credentials(self.username, self.password)
-            self.emp_add.ddtAddUser(Firstname, Lastname, Phone, Address1, Address2, City, State,Zipcode,Usertype,Status,Posid,Password,Cpassword,result)
+            self.sub_cat.inventory_subcategoryClick()
+            self.sub_cat.addNewSubCategoryClick()
+            self.sub_cat.add_Subcat_name(Name)
+            self.sub_cat.add_Category_name(Category)
+            self.sub_cat.saveSubCatClick()
+            time.sleep(2)
+            self.sub_cat.validateSubcatAdd()

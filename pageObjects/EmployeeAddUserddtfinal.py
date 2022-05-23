@@ -2,12 +2,13 @@ import time
 
 from selenium.webdriver.common.by import By
 from selenium import webdriver
+from selenium.webdriver.remote import webelement
 from selenium.webdriver.support.select import Select
 from utilities.base_class import BaseFunc
 from utilities.utils import Utilities
 import openpyxl
 
-class EmployeeAddUserddt(BaseFunc):
+class EmployeeAddUserddtfinal(BaseFunc):
     #link_employee_linktext = 'EMPLOYEE'
     link_employee_xpath='/html/body/nav[1]/div/div/div/ul/li[4]/a'
     link_subemp_css_selector = "//a[@class='dropdown-item sub-dropdown text-uppercase'][normalize-space()='EMPLOYEE']"
@@ -60,11 +61,17 @@ class EmployeeAddUserddt(BaseFunc):
 
     def setAddFirstname(self, Firstname):
         # self.driver.find_element(By.ID, self.textbox_firstname_id).send_keys(self.Firstname)
-        return self.wait_presence_of_element_located(By.ID, self.textbox_firstname_id).send_keys(Firstname)
+        if Firstname is None:
+
+                pass
+        else:
+              return self.wait_presence_of_element_located(By.ID, self.textbox_firstname_id).send_keys(Firstname)
 
     def setAddLastname(self, lastname):
-        # self.driver.find_element(By.ID, self.textbox_lastname_id).send_keys(self.Lastname)
-        return self.wait_presence_of_element_located(By.ID, self.textbox_lastname_id).send_keys(lastname)
+        if lastname is None:
+                pass
+        else:
+            return self.wait_presence_of_element_located(By.ID, self.textbox_lastname_id).send_keys(lastname)
         #time.sleep(2)
     def setAddPhone(self, Phone):
         self.driver.find_element(By.ID, self.textbox_phone_id).click()
@@ -92,7 +99,12 @@ class EmployeeAddUserddt(BaseFunc):
 
     def setUsertype(self,Usertype):
         dropdown = Select(self.wait_presence_of_element_located(By.ID, self.dropdown_usertype_id))
-        dropdown.select_by_index(Usertype)
+
+        if Usertype is None:
+            pass
+        else:
+            dropdown.select_by_index(Usertype)
+
 
     def setStatus(self,Status):
         # dropdn=Select(self.driver.find_element(By.ID, self.dropdown_status_id))
@@ -114,29 +126,48 @@ class EmployeeAddUserddt(BaseFunc):
     def saveCustomer(self):
         self.path = "C:\\Users\\Dell\\PycharmProjects\\pythonProject\\alberta\\TestData\\addUsers.xlsx"
         self.driver.find_element(By.ID, self.button_save_id).click()
-        time.sleep(2)
+        #time.sleep(2)
+        if  (self.wait_presence_of_element_located(By.ID, self.textbox_firstname_id).get_attribute("value")=="") :
+            print("Please fill the field in save")
+            first_name=self.wait_presence_of_element_located(By.ID, self.textbox_firstname_id)
+            first_name.send_keys("SEENA")
+            self.wait_presence_of_element_located(By.ID, self.button_save_id).click()
 
-        print(self.driver.title,"***")
-        if(self.driver.title =="Customer-Alberta | Employee Create"):
+            print("passed")
+        elif(self.wait_presence_of_element_located(By.ID, self.textbox_lastname_id).get_attribute("value") == ""):
+            last_name=self.wait_presence_of_element_located(By.ID, self.textbox_lastname_id)
+            last_name.send_keys("K Nair")
+            self.wait_presence_of_element_located(By.ID, self.button_save_id).click()
 
-           if(self.driver.find_element(By.XPATH,self.message_save_exist_xpath).is_displayed()):
-                msg=self.driver.find_element(By.XPATH,self.message_save_exist_xpath).text
-                user_exist=msg.split('.')
-                if(user_exist[0] == 'Pos User id is already exists'):
-                    Utilities.writeData(self.path,'Sheet1',user_exist[0])
-                    print("testcase passed .User already exists.")
+        elif not (self.wait_presence_of_element_located(By.ID, self.dropdown_usertype_id).is_selected):
+            dropdown = Select(self.wait_presence_of_element_located(By.ID, self.dropdown_usertype_id))
+            dropdown.select_by_visible_text("Admin")
+            self.wait_presence_of_element_located(By.ID, self.button_save_id).click()
 
-                else:
-                    self.driver.save_screenshot(".\\Screenshots\\" + "test_addemployee.png")
+        '''
+        else:
+            print(self.driver.title,"***")
 
-        elif(self.driver.title=="Customer-Alberta | Employee"):
+            if(self.driver.title =="Customer-Alberta | Employee Create"):
 
-            if (self.driver.find_element(By.XPATH, self.message_save_new_xpath).is_displayed()):
-                new_msg = self.driver.find_element(By.XPATH, self.message_save_new_xpath).text
-                print(new_msg)
+               if(self.driver.find_element(By.XPATH,self.message_save_exist_xpath).is_displayed()):
+                    msg=self.driver.find_element(By.XPATH,self.message_save_exist_xpath).text
+                    user_exist=msg.split('.')
+                    if(user_exist[0] == 'Pos User id is already exists'):
+                        Utilities.writeData(self.path,'Sheet1',user_exist[0])
+                        print("testcase passed .User already exists.")
+
+                    else:
+                        self.driver.save_screenshot(".\\Screenshots\\" + "test_addemployee.png")
+
+            elif(self.driver.title=="Customer-Alberta | Employee"):
+
+                if (self.driver.find_element(By.XPATH, self.message_save_new_xpath).is_displayed()):
+                    new_msg = self.driver.find_element(By.XPATH, self.message_save_new_xpath).text
+                    print(new_msg)
 
          #time.sleep(2)
-
+     '''
     def ddtAddUser(self,Firstname, Lastname, Phone, Address1, Address2, City, State,Zipcode,Usertype,Status,Posid,Password,Cpassword,result):
         print("******************ddt")
         self.EmployeeClick()

@@ -28,7 +28,7 @@ class Utilities:
         sh = wb[sheet_name]
         row_c = sh.max_row
         col_c = sh.max_column
-        j=col_c+1
+        j=col_c
         for i in range(2, row_c + 1):
             row = []
             print(i, "rows")

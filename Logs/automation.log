@@ -3843,3 +3843,905 @@
 05192022 04:24:40 PM: INFO: Current google-chrome version is 101.0.4951
 05192022 04:24:40 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
 05192022 04:24:40 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05192022 05:19:55 PM: INFO: 
+
+05192022 05:19:55 PM: INFO: ====== WebDriver manager ======
+05192022 05:19:57 PM: INFO: Current google-chrome version is 101.0.4951
+05192022 05:19:57 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05192022 05:19:57 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05192022 05:26:00 PM: INFO: 
+
+05192022 05:26:00 PM: INFO: ====== WebDriver manager ======
+05192022 05:26:03 PM: INFO: Current google-chrome version is 101.0.4951
+05192022 05:26:03 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05192022 05:26:03 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05192022 05:27:40 PM: INFO: 
+
+05192022 05:27:40 PM: INFO: ====== WebDriver manager ======
+05192022 05:27:43 PM: INFO: Current firefox version is 100.0
+05192022 05:27:43 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 05:27:43 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 05:39:49 PM: INFO: 
+
+05192022 05:39:49 PM: INFO: ====== WebDriver manager ======
+05192022 05:39:52 PM: INFO: Current google-chrome version is 101.0.4951
+05192022 05:39:52 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05192022 05:39:52 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05192022 05:40:58 PM: INFO: 
+
+05192022 05:40:58 PM: INFO: ====== WebDriver manager ======
+05192022 05:41:01 PM: INFO: Current google-chrome version is 101.0.4951
+05192022 05:41:01 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05192022 05:41:01 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05192022 05:51:29 PM: INFO: 
+
+05192022 05:51:29 PM: INFO: ====== WebDriver manager ======
+05192022 05:51:33 PM: INFO: Current firefox version is 100.0
+05192022 05:51:33 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 05:51:33 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 10:28:33 PM: INFO: 
+
+05192022 10:28:33 PM: INFO: ====== WebDriver manager ======
+05192022 10:28:37 PM: INFO: Current firefox version is 100.0
+05192022 10:28:37 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 10:29:07 PM: INFO: 
+
+05192022 10:29:07 PM: INFO: ====== WebDriver manager ======
+05192022 10:29:10 PM: INFO: Current firefox version is 100.0
+05192022 10:29:10 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 10:30:02 PM: INFO: 
+
+05192022 10:30:02 PM: INFO: ====== WebDriver manager ======
+05192022 10:30:06 PM: INFO: Current firefox version is 100.0
+05192022 10:30:06 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 10:30:08 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 10:32:20 PM: INFO: 
+
+05192022 10:32:20 PM: INFO: ====== WebDriver manager ======
+05192022 10:32:23 PM: INFO: Current firefox version is 100.0
+05192022 10:32:23 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 10:32:23 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 10:33:23 PM: INFO:  passed in  test_edit_employee
+05192022 10:37:43 PM: INFO: 
+
+05192022 10:37:43 PM: INFO: ====== WebDriver manager ======
+05192022 10:37:46 PM: INFO: Current firefox version is 100.0
+05192022 10:37:46 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 10:37:47 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 10:44:07 PM: INFO: 
+
+05192022 10:44:07 PM: INFO: ====== WebDriver manager ======
+05192022 10:44:11 PM: INFO: Current firefox version is 100.0
+05192022 10:44:11 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 10:44:11 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 10:46:49 PM: INFO: 
+
+05192022 10:46:49 PM: INFO: ====== WebDriver manager ======
+05192022 10:46:52 PM: INFO: Current firefox version is 100.0
+05192022 10:46:52 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 10:46:53 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 10:51:10 PM: INFO: 
+
+05192022 10:51:10 PM: INFO: ====== WebDriver manager ======
+05192022 10:51:12 PM: INFO: Current firefox version is 100.0
+05192022 10:51:12 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 10:51:13 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 10:54:22 PM: INFO: 
+
+05192022 10:54:22 PM: INFO: ====== WebDriver manager ======
+05192022 10:54:25 PM: INFO: Current google-chrome version is 101.0.4951
+05192022 10:54:25 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05192022 10:54:25 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05192022 10:55:01 PM: INFO: 
+
+05192022 10:55:01 PM: INFO: ====== WebDriver manager ======
+05192022 10:55:03 PM: INFO: Current google-chrome version is 101.0.4951
+05192022 10:55:03 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05192022 10:55:04 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05192022 10:57:40 PM: INFO: 
+
+05192022 10:57:40 PM: INFO: ====== WebDriver manager ======
+05192022 10:57:42 PM: INFO: Current google-chrome version is 101.0.4951
+05192022 10:57:42 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05192022 10:57:43 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05192022 11:00:43 PM: INFO: 
+
+05192022 11:00:43 PM: INFO: ====== WebDriver manager ======
+05192022 11:00:45 PM: INFO: Current google-chrome version is 101.0.4951
+05192022 11:00:45 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05192022 11:00:45 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05192022 11:02:02 PM: INFO: 
+
+05192022 11:02:02 PM: INFO: ====== WebDriver manager ======
+05192022 11:02:05 PM: INFO: Current firefox version is 100.0
+05192022 11:02:05 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 11:02:07 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 11:04:22 PM: INFO: 
+
+05192022 11:04:22 PM: INFO: ====== WebDriver manager ======
+05192022 11:04:25 PM: INFO: Current firefox version is 100.0
+05192022 11:04:25 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 11:04:26 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 11:05:58 PM: INFO: 
+
+05192022 11:05:58 PM: INFO: ====== WebDriver manager ======
+05192022 11:06:01 PM: INFO: Current google-chrome version is 101.0.4951
+05192022 11:06:01 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05192022 11:06:01 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05192022 11:07:08 PM: INFO: 
+
+05192022 11:07:08 PM: INFO: ====== WebDriver manager ======
+05192022 11:07:11 PM: INFO: Current firefox version is 100.0
+05192022 11:07:11 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 11:07:11 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 11:08:50 PM: INFO: 
+
+05192022 11:08:50 PM: INFO: ====== WebDriver manager ======
+05192022 11:08:54 PM: INFO: Current firefox version is 100.0
+05192022 11:08:54 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 11:08:54 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 11:10:19 PM: INFO: 
+
+05192022 11:10:19 PM: INFO: ====== WebDriver manager ======
+05192022 11:10:22 PM: INFO: Current firefox version is 100.0
+05192022 11:10:22 PM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05192022 11:10:22 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05192022 11:11:39 PM: INFO: 
+
+05192022 11:11:39 PM: INFO: ====== WebDriver manager ======
+05192022 11:11:42 PM: INFO: Current google-chrome version is 101.0.4951
+05192022 11:11:42 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05192022 11:11:42 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 10:17:31 AM: INFO: 
+
+05202022 10:17:31 AM: INFO: ====== WebDriver manager ======
+05202022 10:17:35 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 10:17:35 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 10:17:35 AM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_win32.zip
+05202022 10:17:36 AM: INFO: Driver has been saved in cache [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41]
+05202022 10:17:43 AM: INFO: ** class Test_002_DDT_login ** 
+05202022 10:17:43 AM: INFO: *** verifying login ddt test ***
+05202022 10:18:02 AM: INFO: ** passed ***
+05202022 10:18:03 AM: INFO: ** Login DDT test passed **
+05202022 10:18:03 AM: INFO: ** End of the login DDT test **
+05202022 10:18:03 AM: INFO: ** completed Test_002_DDT_Login **
+05202022 10:18:08 AM: INFO: ** passed **
+05202022 10:18:09 AM: INFO: ** Login DDT test passed **
+05202022 10:18:09 AM: INFO: ** End of the login DDT test **
+05202022 10:18:09 AM: INFO: ** completed Test_002_DDT_Login **
+05202022 10:18:09 AM: INFO: ** End of login DDT test **
+05202022 10:18:09 AM: INFO: ** Completed class Test***
+05202022 10:19:28 AM: INFO: 
+
+05202022 10:19:28 AM: INFO: ====== WebDriver manager ======
+05202022 10:19:31 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 10:19:31 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 10:19:31 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 10:19:37 AM: INFO: ** class Test_002_DDT_login ** 
+05202022 10:19:37 AM: INFO: *** verifying login ddt test ***
+05202022 10:19:54 AM: INFO: ** passed ***
+05202022 10:19:55 AM: INFO: ** Login DDT test passed **
+05202022 10:19:55 AM: INFO: ** End of the login DDT test **
+05202022 10:19:55 AM: INFO: ** completed Test_002_DDT_Login **
+05202022 10:20:01 AM: INFO: ** passed **
+05202022 10:20:01 AM: INFO: ** Login DDT test passed **
+05202022 10:20:01 AM: INFO: ** End of the login DDT test **
+05202022 10:20:01 AM: INFO: ** completed Test_002_DDT_Login **
+05202022 10:20:01 AM: INFO: ** End of login DDT test **
+05202022 10:20:01 AM: INFO: ** Completed class Test***
+05202022 10:21:03 AM: INFO: 
+
+05202022 10:21:03 AM: INFO: ====== WebDriver manager ======
+05202022 10:21:07 AM: INFO: Current firefox version is 100.0
+05202022 10:21:07 AM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05202022 10:21:07 AM: INFO: Getting latest mozilla release info for v0.31.0
+05202022 10:21:08 AM: INFO: Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+05202022 10:21:09 AM: INFO: Driver has been saved in cache [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0]
+05202022 10:21:45 AM: INFO: ** class Test_002_DDT_login ** 
+05202022 10:21:45 AM: INFO: *** verifying login ddt test ***
+05202022 10:22:07 AM: INFO: ** passed ***
+05202022 10:22:08 AM: INFO: ** Login DDT test passed **
+05202022 10:22:08 AM: INFO: ** End of the login DDT test **
+05202022 10:22:08 AM: INFO: ** completed Test_002_DDT_Login **
+05202022 10:22:12 AM: INFO: ** passed **
+05202022 10:22:17 AM: INFO: ** Login DDT test passed **
+05202022 10:22:17 AM: INFO: ** End of the login DDT test **
+05202022 10:22:17 AM: INFO: ** completed Test_002_DDT_Login **
+05202022 10:22:17 AM: INFO: ** End of login DDT test **
+05202022 10:22:17 AM: INFO: ** Completed class Test***
+05202022 10:26:57 AM: INFO: 
+
+05202022 10:26:57 AM: INFO: ====== WebDriver manager ======
+05202022 10:27:00 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 10:27:00 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 10:27:00 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 10:28:12 AM: INFO: 
+
+05202022 10:28:12 AM: INFO: ====== WebDriver manager ======
+05202022 10:28:14 AM: INFO: Current firefox version is 100.0
+05202022 10:28:14 AM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05202022 10:28:15 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05202022 10:33:16 AM: INFO: 
+
+05202022 10:33:16 AM: INFO: ====== WebDriver manager ======
+05202022 10:33:19 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 10:33:19 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 10:33:19 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 10:33:34 AM: INFO: Login passed in  test_employee_search
+05202022 10:37:39 AM: INFO: 
+
+05202022 10:37:39 AM: INFO: ====== WebDriver manager ======
+05202022 10:37:41 AM: INFO: Current firefox version is 100.0
+05202022 10:37:41 AM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05202022 10:37:42 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05202022 10:38:12 AM: INFO: Login passed in  test_employee_search
+05202022 10:40:56 AM: INFO: 
+
+05202022 10:40:56 AM: INFO: ====== WebDriver manager ======
+05202022 10:40:58 AM: INFO: Current firefox version is 100.0
+05202022 10:40:58 AM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05202022 10:40:59 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05202022 10:43:06 AM: INFO: 
+
+05202022 10:43:06 AM: INFO: ====== WebDriver manager ======
+05202022 10:43:09 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 10:43:09 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 10:43:10 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 10:44:00 AM: INFO:  passed in  test_edit_employee
+05202022 10:53:03 AM: INFO: 
+
+05202022 10:53:03 AM: INFO: ====== WebDriver manager ======
+05202022 10:53:06 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 10:53:06 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 10:53:06 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 10:56:35 AM: INFO: 
+
+05202022 10:56:35 AM: INFO: ====== WebDriver manager ======
+05202022 10:56:37 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 10:56:37 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 10:56:38 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 10:57:42 AM: INFO:  passed in  test_edit_employee
+05202022 10:57:57 AM: INFO: 
+
+05202022 10:57:57 AM: INFO: ====== WebDriver manager ======
+05202022 10:58:00 AM: INFO: Current firefox version is 100.0
+05202022 10:58:00 AM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05202022 10:58:00 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05202022 10:59:08 AM: INFO:  passed in  test_edit_employee
+05202022 10:59:55 AM: INFO: 
+
+05202022 10:59:55 AM: INFO: ====== WebDriver manager ======
+05202022 10:59:59 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 10:59:59 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 11:00:00 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 11:01:01 AM: INFO:  passed in  test_edit_employee
+05202022 11:02:30 AM: INFO: 
+
+05202022 11:02:30 AM: INFO: ====== WebDriver manager ======
+05202022 11:02:33 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 11:02:33 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 11:02:33 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 11:03:30 AM: INFO: 
+
+05202022 11:03:30 AM: INFO: ====== WebDriver manager ======
+05202022 11:03:33 AM: INFO: Current firefox version is 100.0
+05202022 11:03:33 AM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05202022 11:03:33 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05202022 11:04:33 AM: INFO: 
+
+05202022 11:04:33 AM: INFO: ====== WebDriver manager ======
+05202022 11:04:37 AM: INFO: Current firefox version is 100.0
+05202022 11:04:37 AM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05202022 11:04:37 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05202022 11:09:15 AM: INFO: 
+
+05202022 11:09:15 AM: INFO: ====== WebDriver manager ======
+05202022 11:09:18 AM: INFO: Current firefox version is 100.0
+05202022 11:09:18 AM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05202022 11:09:19 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05202022 11:10:34 AM: INFO: 
+
+05202022 11:10:34 AM: INFO: ====== WebDriver manager ======
+05202022 11:10:36 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 11:10:36 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 11:10:37 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 11:11:37 AM: INFO: 
+
+05202022 11:11:37 AM: INFO: ====== WebDriver manager ======
+05202022 11:11:40 AM: INFO: Current google-chrome version is 101.0.4951
+05202022 11:11:40 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 11:11:40 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 11:12:39 AM: INFO:  passed in  test_edit_employee
+05202022 11:12:55 AM: INFO: 
+
+05202022 11:12:55 AM: INFO: ====== WebDriver manager ======
+05202022 11:12:59 AM: INFO: Current firefox version is 100.0
+05202022 11:12:59 AM: INFO: Get LATEST geckodriver version for 100.0 firefox
+05202022 11:12:59 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+05202022 11:14:07 AM: INFO:  passed in  test_edit_employee
+05202022 12:44:16 PM: INFO: 
+
+05202022 12:44:16 PM: INFO: ====== WebDriver manager ======
+05202022 12:44:24 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 12:44:24 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 12:44:25 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 12:50:18 PM: INFO: 
+
+05202022 12:50:19 PM: INFO: ====== WebDriver manager ======
+05202022 12:50:36 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 12:50:36 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 12:50:38 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 12:56:41 PM: INFO: 
+
+05202022 12:56:41 PM: INFO: ====== WebDriver manager ======
+05202022 12:56:51 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 12:56:51 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 12:56:51 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 12:59:00 PM: INFO: 
+
+05202022 12:59:00 PM: INFO: ====== WebDriver manager ======
+05202022 12:59:04 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 12:59:04 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 12:59:05 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 01:01:41 PM: INFO: 
+
+05202022 01:01:41 PM: INFO: ====== WebDriver manager ======
+05202022 01:01:47 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 01:01:47 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 01:01:47 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 01:13:22 PM: INFO: 
+
+05202022 01:13:22 PM: INFO: ====== WebDriver manager ======
+05202022 01:13:26 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 01:13:26 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 01:13:27 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 01:26:08 PM: INFO: 
+
+05202022 01:26:08 PM: INFO: ====== WebDriver manager ======
+05202022 01:26:12 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 01:26:12 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 01:26:12 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 01:33:08 PM: INFO: 
+
+05202022 01:33:08 PM: INFO: ====== WebDriver manager ======
+05202022 01:33:11 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 01:33:11 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 01:33:12 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:09:11 PM: INFO: 
+
+05202022 02:09:11 PM: INFO: ====== WebDriver manager ======
+05202022 02:09:17 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:09:17 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:09:18 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:10:56 PM: INFO: 
+
+05202022 02:10:56 PM: INFO: ====== WebDriver manager ======
+05202022 02:11:00 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:11:00 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:11:00 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:17:23 PM: INFO: 
+
+05202022 02:17:23 PM: INFO: ====== WebDriver manager ======
+05202022 02:17:25 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:17:25 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:17:26 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:19:32 PM: INFO: 
+
+05202022 02:19:32 PM: INFO: ====== WebDriver manager ======
+05202022 02:19:35 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:19:35 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:19:36 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:22:22 PM: INFO: 
+
+05202022 02:22:22 PM: INFO: ====== WebDriver manager ======
+05202022 02:22:25 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:22:25 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:22:25 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:23:50 PM: INFO: 
+
+05202022 02:23:50 PM: INFO: ====== WebDriver manager ======
+05202022 02:23:52 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:23:52 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:23:53 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:28:32 PM: INFO: 
+
+05202022 02:28:32 PM: INFO: ====== WebDriver manager ======
+05202022 02:28:35 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:28:35 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:28:35 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:30:55 PM: INFO: 
+
+05202022 02:30:55 PM: INFO: ====== WebDriver manager ======
+05202022 02:30:58 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:30:58 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:30:58 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:32:39 PM: INFO: 
+
+05202022 02:32:39 PM: INFO: ====== WebDriver manager ======
+05202022 02:32:42 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:32:42 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:32:42 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:34:21 PM: INFO: 
+
+05202022 02:34:21 PM: INFO: ====== WebDriver manager ======
+05202022 02:34:23 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:34:23 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:34:24 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:35:59 PM: INFO: 
+
+05202022 02:35:59 PM: INFO: ====== WebDriver manager ======
+05202022 02:36:01 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:36:01 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:36:01 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:37:39 PM: INFO: 
+
+05202022 02:37:39 PM: INFO: ====== WebDriver manager ======
+05202022 02:37:41 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:37:41 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:37:42 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:43:01 PM: INFO: 
+
+05202022 02:43:01 PM: INFO: ====== WebDriver manager ======
+05202022 02:43:03 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:43:03 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:43:04 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:45:14 PM: INFO: 
+
+05202022 02:45:14 PM: INFO: ====== WebDriver manager ======
+05202022 02:45:17 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:45:17 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:45:17 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 02:46:29 PM: INFO: 
+
+05202022 02:46:29 PM: INFO: ====== WebDriver manager ======
+05202022 02:46:31 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 02:46:31 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 02:46:32 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:14:52 PM: INFO: 
+
+05202022 03:14:52 PM: INFO: ====== WebDriver manager ======
+05202022 03:14:55 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:14:55 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:14:56 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:17:18 PM: INFO: 
+
+05202022 03:17:18 PM: INFO: ====== WebDriver manager ======
+05202022 03:17:21 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:17:21 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:17:21 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:18:36 PM: INFO: 
+
+05202022 03:18:36 PM: INFO: ====== WebDriver manager ======
+05202022 03:18:38 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:18:38 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:18:38 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:25:11 PM: INFO: 
+
+05202022 03:25:11 PM: INFO: ====== WebDriver manager ======
+05202022 03:25:13 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:25:13 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:25:13 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:30:08 PM: INFO: 
+
+05202022 03:30:08 PM: INFO: ====== WebDriver manager ======
+05202022 03:30:10 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:30:10 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:30:11 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:35:47 PM: INFO: 
+
+05202022 03:35:47 PM: INFO: ====== WebDriver manager ======
+05202022 03:35:50 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:35:50 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:35:50 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:37:14 PM: INFO: 
+
+05202022 03:37:14 PM: INFO: ====== WebDriver manager ======
+05202022 03:37:17 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:37:17 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:37:17 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:44:06 PM: INFO: 
+
+05202022 03:44:06 PM: INFO: ====== WebDriver manager ======
+05202022 03:44:09 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:44:09 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:44:09 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:46:10 PM: INFO: 
+
+05202022 03:46:10 PM: INFO: ====== WebDriver manager ======
+05202022 03:46:12 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:46:12 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:46:12 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:48:03 PM: INFO: 
+
+05202022 03:48:03 PM: INFO: ====== WebDriver manager ======
+05202022 03:48:05 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:48:05 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:48:05 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:55:46 PM: INFO: 
+
+05202022 03:55:46 PM: INFO: ====== WebDriver manager ======
+05202022 03:55:48 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:55:48 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:55:48 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 03:59:19 PM: INFO: 
+
+05202022 03:59:19 PM: INFO: ====== WebDriver manager ======
+05202022 03:59:21 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 03:59:21 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 03:59:21 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:11:40 PM: INFO: 
+
+05202022 04:11:40 PM: INFO: ====== WebDriver manager ======
+05202022 04:11:43 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:11:43 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:11:43 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:14:54 PM: INFO: 
+
+05202022 04:14:54 PM: INFO: ====== WebDriver manager ======
+05202022 04:14:56 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:14:56 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:14:56 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:16:37 PM: INFO: 
+
+05202022 04:16:37 PM: INFO: ====== WebDriver manager ======
+05202022 04:16:39 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:16:39 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:16:39 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:18:14 PM: INFO: 
+
+05202022 04:18:14 PM: INFO: ====== WebDriver manager ======
+05202022 04:18:18 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:18:18 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:18:18 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:26:00 PM: INFO: 
+
+05202022 04:26:00 PM: INFO: ====== WebDriver manager ======
+05202022 04:26:03 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:26:03 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:26:03 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:28:50 PM: INFO: 
+
+05202022 04:28:50 PM: INFO: ====== WebDriver manager ======
+05202022 04:28:52 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:28:52 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:28:52 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:30:29 PM: INFO: 
+
+05202022 04:30:29 PM: INFO: ====== WebDriver manager ======
+05202022 04:30:31 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:30:31 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:30:31 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:36:48 PM: INFO: 
+
+05202022 04:36:48 PM: INFO: ====== WebDriver manager ======
+05202022 04:36:50 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:36:50 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:36:51 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:38:16 PM: INFO: 
+
+05202022 04:38:16 PM: INFO: ====== WebDriver manager ======
+05202022 04:38:19 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:38:19 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:38:19 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:40:14 PM: INFO: 
+
+05202022 04:40:14 PM: INFO: ====== WebDriver manager ======
+05202022 04:40:17 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:40:17 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:40:17 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:44:27 PM: INFO: 
+
+05202022 04:44:27 PM: INFO: ====== WebDriver manager ======
+05202022 04:44:30 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:44:30 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:44:30 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05202022 04:46:45 PM: INFO: 
+
+05202022 04:46:45 PM: INFO: ====== WebDriver manager ======
+05202022 04:46:47 PM: INFO: Current google-chrome version is 101.0.4951
+05202022 04:46:47 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05202022 04:46:48 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 11:28:43 AM: INFO: 
+
+05232022 11:28:43 AM: INFO: ====== WebDriver manager ======
+05232022 11:28:47 AM: INFO: Current google-chrome version is 101.0.4951
+05232022 11:28:47 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 11:28:47 AM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_win32.zip
+05232022 11:28:49 AM: INFO: Driver has been saved in cache [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41]
+05232022 11:28:58 AM: INFO: ***** Verifying Login test *********
+05232022 11:38:39 AM: INFO: 
+
+05232022 11:38:39 AM: INFO: ====== WebDriver manager ======
+05232022 11:38:42 AM: INFO: Current google-chrome version is 101.0.4951
+05232022 11:38:42 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 11:38:42 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 11:38:48 AM: INFO: ***** Verifying Login test *********
+05232022 11:48:23 AM: INFO: 
+
+05232022 11:48:23 AM: INFO: ====== WebDriver manager ======
+05232022 11:48:25 AM: INFO: Current google-chrome version is 101.0.4951
+05232022 11:48:25 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 11:48:26 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 11:48:32 AM: INFO: ***** Verifying Login test *********
+05232022 11:51:15 AM: INFO: 
+
+05232022 11:51:15 AM: INFO: ====== WebDriver manager ======
+05232022 11:51:18 AM: INFO: Current google-chrome version is 101.0.4951
+05232022 11:51:18 AM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 11:51:18 AM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 11:51:23 AM: INFO: ***** Verifying Login test *********
+05232022 12:13:13 PM: INFO: 
+
+05232022 12:13:14 PM: INFO: ====== WebDriver manager ======
+05232022 12:13:20 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:13:20 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:13:22 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:13:37 PM: INFO: ***** Verifying Login test *********
+05232022 12:18:22 PM: INFO: 
+
+05232022 12:18:22 PM: INFO: ====== WebDriver manager ======
+05232022 12:18:25 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:18:25 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:18:25 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:18:33 PM: INFO: ***** Verifying Login test *********
+05232022 12:20:34 PM: INFO: 
+
+05232022 12:20:34 PM: INFO: ====== WebDriver manager ======
+05232022 12:20:38 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:20:38 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:20:38 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:20:48 PM: INFO: ***** Verifying Login test *********
+05232022 12:23:38 PM: INFO: 
+
+05232022 12:23:38 PM: INFO: ====== WebDriver manager ======
+05232022 12:23:41 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:23:41 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:23:42 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:23:50 PM: INFO: ***** Verifying Login test *********
+05232022 12:25:26 PM: INFO: 
+
+05232022 12:25:26 PM: INFO: ====== WebDriver manager ======
+05232022 12:25:31 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:25:31 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:25:31 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:25:37 PM: INFO: ***** Verifying Login test *********
+05232022 12:26:56 PM: INFO: 
+
+05232022 12:26:56 PM: INFO: ====== WebDriver manager ======
+05232022 12:26:59 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:26:59 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:27:00 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:27:06 PM: INFO: ***** Verifying Login test *********
+05232022 12:28:18 PM: INFO: 
+
+05232022 12:28:18 PM: INFO: ====== WebDriver manager ======
+05232022 12:28:22 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:28:22 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:28:22 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:28:29 PM: INFO: ***** Verifying Login test *********
+05232022 12:29:26 PM: INFO: 
+
+05232022 12:29:26 PM: INFO: ====== WebDriver manager ======
+05232022 12:29:29 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:29:29 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:29:30 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:29:36 PM: INFO: ***** Verifying Login test *********
+05232022 12:34:24 PM: INFO: 
+
+05232022 12:34:24 PM: INFO: ====== WebDriver manager ======
+05232022 12:34:27 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:34:27 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:34:27 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:34:32 PM: INFO: ***** Verifying Login test *********
+05232022 12:36:48 PM: INFO: 
+
+05232022 12:36:48 PM: INFO: ====== WebDriver manager ======
+05232022 12:36:51 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:36:51 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:36:51 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:36:54 PM: INFO: ***** Verifying Login test *********
+05232022 12:39:33 PM: INFO: 
+
+05232022 12:39:33 PM: INFO: ====== WebDriver manager ======
+05232022 12:39:36 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:39:36 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:39:36 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:39:40 PM: INFO: ***** Verifying Login test *********
+05232022 12:41:42 PM: INFO: 
+
+05232022 12:41:42 PM: INFO: ====== WebDriver manager ======
+05232022 12:41:44 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:41:44 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:41:45 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:41:49 PM: INFO: ***** Verifying Login test *********
+05232022 12:51:57 PM: INFO: 
+
+05232022 12:51:57 PM: INFO: ====== WebDriver manager ======
+05232022 12:51:59 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:51:59 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:52:00 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:52:04 PM: INFO: ***** Verifying Login test *********
+05232022 12:52:58 PM: INFO: 
+
+05232022 12:52:58 PM: INFO: ====== WebDriver manager ======
+05232022 12:53:01 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:53:01 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:53:02 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:53:06 PM: INFO: ***** Verifying Login test *********
+05232022 12:54:09 PM: INFO: 
+
+05232022 12:54:09 PM: INFO: ====== WebDriver manager ======
+05232022 12:54:12 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:54:12 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:54:13 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:54:17 PM: INFO: ***** Verifying Login test *********
+05232022 12:56:18 PM: INFO: 
+
+05232022 12:56:18 PM: INFO: ====== WebDriver manager ======
+05232022 12:56:21 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 12:56:22 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 12:56:22 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 12:56:26 PM: INFO: ***** Verifying Login test *********
+05232022 01:06:58 PM: INFO: 
+
+05232022 01:06:58 PM: INFO: ====== WebDriver manager ======
+05232022 01:07:00 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 01:07:01 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 01:07:01 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 01:07:06 PM: INFO: ***** Verifying Login test *********
+05232022 01:16:04 PM: INFO: 
+
+05232022 01:16:04 PM: INFO: ====== WebDriver manager ======
+05232022 01:16:06 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 01:16:06 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 01:16:06 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 01:16:10 PM: INFO: ***** Verifying Login test *********
+05232022 01:24:24 PM: INFO: 
+
+05232022 01:24:24 PM: INFO: ====== WebDriver manager ======
+05232022 01:24:26 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 01:24:26 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 01:24:26 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 01:24:32 PM: INFO: ***** Verifying Login test *********
+05232022 02:35:02 PM: INFO: 
+
+05232022 02:35:02 PM: INFO: ====== WebDriver manager ======
+05232022 02:35:05 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 02:35:05 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 02:35:05 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 02:35:10 PM: INFO: ***** Verifying Login test *********
+05232022 02:41:43 PM: INFO: 
+
+05232022 02:41:43 PM: INFO: ====== WebDriver manager ======
+05232022 02:41:46 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 02:41:46 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 02:41:46 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 02:41:51 PM: INFO: ***** Verifying Login test *********
+05232022 02:42:06 PM: INFO: 
+
+05232022 02:42:06 PM: INFO: ====== WebDriver manager ======
+05232022 02:42:09 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 02:42:09 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 02:42:09 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 02:42:12 PM: INFO: ***** Verifying Login test *********
+05232022 02:44:21 PM: INFO: 
+
+05232022 02:44:21 PM: INFO: ====== WebDriver manager ======
+05232022 02:44:25 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 02:44:25 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 02:44:25 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 02:44:30 PM: INFO: ***** Verifying Login test *********
+05232022 02:49:11 PM: INFO: 
+
+05232022 02:49:11 PM: INFO: ====== WebDriver manager ======
+05232022 02:49:14 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 02:49:14 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 02:49:14 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 02:49:23 PM: INFO: ***** Verifying Login test *********
+05232022 02:49:27 PM: INFO: 
+
+05232022 02:49:27 PM: INFO: ====== WebDriver manager ======
+05232022 02:49:31 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 02:49:31 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 02:49:32 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 02:49:37 PM: INFO: ***** Verifying Login test *********
+05232022 02:57:35 PM: INFO: 
+
+05232022 02:57:35 PM: INFO: ====== WebDriver manager ======
+05232022 02:57:38 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 02:57:38 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 02:57:38 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 02:57:43 PM: INFO: ***** Verifying Login test *********
+05232022 02:57:47 PM: INFO: 
+
+05232022 02:57:47 PM: INFO: ====== WebDriver manager ======
+05232022 02:57:51 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 02:57:51 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 02:57:51 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 02:57:56 PM: INFO: ***** Verifying Login test *********
+05232022 03:02:35 PM: INFO: 
+
+05232022 03:02:35 PM: INFO: ====== WebDriver manager ======
+05232022 03:02:38 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 03:02:38 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 03:02:38 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 03:02:43 PM: INFO: ***** Verifying Login test *********
+05232022 03:02:49 PM: INFO: 
+
+05232022 03:02:49 PM: INFO: ====== WebDriver manager ======
+05232022 03:02:53 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 03:02:53 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 03:02:53 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 03:02:57 PM: INFO: ***** Verifying Login test *********
+05232022 03:38:04 PM: INFO: 
+
+05232022 03:38:04 PM: INFO: ====== WebDriver manager ======
+05232022 03:38:06 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 03:38:06 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 03:38:07 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 03:38:54 PM: INFO: 
+
+05232022 03:38:54 PM: INFO: ====== WebDriver manager ======
+05232022 03:38:56 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 03:38:56 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 03:38:56 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 03:43:44 PM: INFO: 
+
+05232022 03:43:44 PM: INFO: ====== WebDriver manager ======
+05232022 03:43:46 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 03:43:46 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 03:43:47 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 04:03:48 PM: INFO: 
+
+05232022 04:03:48 PM: INFO: ====== WebDriver manager ======
+05232022 04:03:51 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 04:03:51 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 04:03:51 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 04:08:52 PM: INFO: 
+
+05232022 04:08:52 PM: INFO: ====== WebDriver manager ======
+05232022 04:08:54 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 04:08:54 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 04:08:55 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 04:10:24 PM: INFO: 
+
+05232022 04:10:24 PM: INFO: ====== WebDriver manager ======
+05232022 04:10:26 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 04:10:26 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 04:10:26 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 04:15:23 PM: INFO: 
+
+05232022 04:15:23 PM: INFO: ====== WebDriver manager ======
+05232022 04:15:26 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 04:15:26 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 04:15:26 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 04:18:43 PM: INFO: 
+
+05232022 04:18:43 PM: INFO: ====== WebDriver manager ======
+05232022 04:18:46 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 04:18:46 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 04:18:46 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 04:19:41 PM: INFO: 
+
+05232022 04:19:41 PM: INFO: ====== WebDriver manager ======
+05232022 04:19:44 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 04:19:44 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 04:19:44 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 04:21:22 PM: INFO: 
+
+05232022 04:21:22 PM: INFO: ====== WebDriver manager ======
+05232022 04:21:25 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 04:21:25 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 04:21:25 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 05:28:12 PM: INFO: 
+
+05232022 05:28:12 PM: INFO: ====== WebDriver manager ======
+05232022 05:28:15 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 05:28:15 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 05:28:15 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05232022 05:30:29 PM: INFO: 
+
+05232022 05:30:29 PM: INFO: ====== WebDriver manager ======
+05232022 05:30:32 PM: INFO: Current google-chrome version is 101.0.4951
+05232022 05:30:32 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05232022 05:30:32 PM: INFO: Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache

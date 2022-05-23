@@ -7,7 +7,8 @@ from selenium import webdriver
 from selenium.webdriver.support.select import Select
 from utilities.base_class import BaseFunc
 class EmployeeEdit(BaseFunc):
-    link_employee_linktext = 'EMPLOYEE'
+    #link_employee_linktext = 'EMPLOYEE'
+
     link_employee_xpath='/html/body/nav[1]/div/div/div/ul/li[4]/a'
     link_subemp_css_selector = "//a[@class='dropdown-item sub-dropdown text-uppercase'][normalize-space()='EMPLOYEE']"
     button_addnew_linktext = 'ADD NEW'
@@ -62,7 +63,7 @@ class EmployeeEdit(BaseFunc):
         return self.wait_presence_of_element_located(By.ID, self.textbox_firstname_id).send_keys(Firstname)
     def setAddLastname(self, lastname):
 
-        self.wait_presence_of_element_located(By.ID, self.textbox_lastname_id).clear()
+        self.wait_presence_oflement_located(By.ID, self.textbox_lastname_id).clear()
         return self.wait_presence_of_element_located(By.ID, self.textbox_lastname_id).send_keys(lastname)
 
     def setAddPhone(self, phone):

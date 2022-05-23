@@ -19,7 +19,7 @@ class BaseFunc():
     def mouse_actions(self,element):
         ## Mouse Hover
         action=ActionChains(self.driver)
-        action.move_to_element(element).click().perform()
+        return action.move_to_element(element).click().perform()
 
     def get_element(self, locator):
         wait = WebDriverWait(self.driver, 10)

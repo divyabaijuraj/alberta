@@ -39,3 +39,17 @@ def pytest_addoption(parser):
 def browser(request):
     return request.config.getoption("--browser")
 
+##############   HTML   Reports  #########
+### Adding environment to HTML report
+def pytest_configure(config):
+    config._metadata['Project Name'] = 'alberta'
+    config._metadata['Module Name'] = 'EditEmployee'
+    config._metadata['Tester'] = 'Divya'
+
+@pytest.mark.optionhook
+def pytest_metadata(metadata):
+    metadata.pop("JAVA_HOME",None)
+    metadata.pop("Plugins",None)
+
+
+

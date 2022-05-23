@@ -242,13 +242,13 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
     notFoundMessage.hidden = !allRowsHidden;
 }
 </script>
-    <h1>reports.html</h1>
-    <p>Report generated on 20-May-2022 at 10:29:05 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <h1>reportedit.html</h1>
+    <p>Report generated on 20-May-2022 at 10:44:03 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
         <td>Module Name</td>
-        <td>AddEmployee</td></tr>
+        <td>EditEmployee</td></tr>
       <tr>
         <td>Packages</td>
         <td>{"pluggy": "1.0.0", "py": "1.11.0", "pytest": "7.0.1"}</td></tr>
@@ -265,7 +265,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Divya</td></tr></table>
     <h2>Summary</h2>
-    <p>1 tests ran in 54.63 seconds. </p>
+    <p>1 tests ran in 58.79 seconds. </p>
     <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
@@ -280,26 +280,25 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testCases/test_addempddt.py::Test_003_AddEmployee::test_add_employee_1___Amrita____Nair____984_800_1200____Rmnagar____Bangalore____Bangalore____Karnataka___560016__2___Active___999___wxyz____wxyz____Pos_User_id_is_already_exists__</td>
-          <td class="col-duration">50.84</td>
+          <td class="col-name">testCases/test_employee_edit.py::Test_002_Employee::test_edit_employee_1___Amrita____Nair____984_800_1200____Rmnagar____Bangalore____Bangalore____Karnataka___560016__2___Active___540___wxyz____wxyz__</td>
+          <td class="col-duration">53.86</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -----------------------------Captured stderr setup------------------------------ <br/>
 
 ====== WebDriver manager ======
-Current firefox version is 100.0
-Get LATEST geckodriver version for 100.0 firefox
-Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+Current google-chrome version is 101.0.4951
+Get LATEST chromedriver version for 101.0.4951 google-chrome
+Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
 <br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:27 
 
 INFO     WDM:logger.py:27 ====== WebDriver manager ======
-INFO     WDM:logger.py:27 Current firefox version is 100.0
-INFO     WDM:logger.py:27 Get LATEST geckodriver version for 100.0 firefox
-INFO     WDM:logger.py:27 Driver [C:\Users\Dell\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache<br/> ------------------------------Captured stdout call------------------------------ <br/>username: harikt@gmail.com
+INFO     WDM:logger.py:27 Current google-chrome version is 101.0.4951
+INFO     WDM:logger.py:27 Get LATEST chromedriver version for 101.0.4951 google-chrome
+INFO     WDM:logger.py:27 Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache<br/> ------------------------------Captured stdout call------------------------------ <br/>username: harikt@gmail.com
 ******************ddt
-Customer-Alberta | Employee Create ***
-2 rows
-2 14
-testcase passed .User already exists.
-<br/></div></td></tr></tbody></table></body></html>
+Customer-Alberta | Employee ***
+User Updated Successfully
+×
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_employee_edit.py:45  passed in  test_edit_employee<br/></div></td></tr></tbody></table></body></html>
